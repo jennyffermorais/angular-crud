@@ -1,0 +1,27 @@
+INSTALAÇÃO DO ANGULAR CLI NO PROJETO - interface de linha de comando do angular
+npm install @angular/cli@14.0.0
+
+CRIAR O PROJETO
+ng new memoteca
+
+EXECUTAR O PROJETO
+ng serve
+
+EXECUTAR O PROJETO E ABRIR O NAVEGADOR
+ng serve --open
+
+REPOSITORIO ALURA
+https://github.com/alura-cursos/2438-angular-memoteca/tree/aula-6/src
+
+FIGMA
+https://www.figma.com/file/YTSUBbe7Zgwx3L567TAzTc/Memoteca---Angular%3A-Come%C3%A7ando-com-o-Framework?type=design&node-id=148-26&mode=design
+
+
+Framework para desenvolver SPA
+Estrutura baseada em componentes
+Coleção de bibliotecas integradas
+
+
+CRIAR UM COMPONENTE CHAMADO HOME
+ng generate component home ||
+ng g c home
